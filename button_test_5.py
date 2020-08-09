@@ -27,11 +27,10 @@ buttonlist = ["Blue", "Red", "Yellow", "Green", "White", "Switch", "Unused1", "U
 
 buttonsound={}
 
-buttonsound = [ ['rooster.mp3'],
-                ['carstartgarage.mp3','carpeelout.mp3','carstart.mp3'],
-                ['phonedial.mp3','emergency003.mp3'],
-                ['spacetakeoff.mp3','spacestartup.mp3','spacefailure.mp3'] ]
-
+buttonsound = [ ['rooster.mp3','quack.mp3','pig-oink.mp3','Smallherdcattle.mp3'],
+                ['carstartgarage.mp3','carpeelout.mp3','carstart.mp3','Sad_Trombone.mp3'],
+                ['phonedial.mp3','emergency003.mp3','Air_Wrench.mp3','steam-train-whistle.mp3'],
+                ['spacetakeoff.mp3','spacestartup.mp3','spacefailure.mp3','Airlock-Door-Open-B2.mp3'] ]
 
 
 buttoncat=['farmsounds.mp3','carsounds.mp3','machinesounds.mp3']
